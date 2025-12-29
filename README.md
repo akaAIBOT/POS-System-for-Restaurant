@@ -102,11 +102,11 @@ Once running, you can access:
 Use these default credentials to login:
 
 **Admin Account:**
-- Email: `admin@restaurant.com`
+- Login: `admin`
 - Password: `admin123`
 
 **Staff Account:**
-- Email: `staff@restaurant.com`
+- Login: `staff`
 - Password: `staff123`
 
 **Note:** These default accounts will be created automatically on first run (see step 6).
